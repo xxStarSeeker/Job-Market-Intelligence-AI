@@ -47,7 +47,7 @@ Job Market Intelligence AI\Job Market Intelligence AI
 
 ## Ignore / Do Not Share
 
-These are local or generated and should not be sent to teammates:
+These are local or generated and should not be sent:
 
 - `.venv/`
 - `.claude/`
