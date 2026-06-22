@@ -1,0 +1,34 @@
+# Job Market Intelligence — Python dependencies
+#
+# NOTE: PyTorch is intentionally NOT pinned here. This project uses the CUDA
+# 12.8 build for the RTX 5090; install it separately from the PyTorch index,
+# e.g.  pip install torch --index-url https://download.pytorch.org/whl/cu128
+# Do NOT `pip install torch` from PyPI — it will pull a CPU/incompatible build.
+
+# Core data / ML
+numpy
+pandas
+scikit-learn
+scipy
+
+# Embeddings + transformers
+sentence-transformers
+transformers
+faiss-cpu
+
+# Recommendation LLM/API clients
+requests
+aiohttp
+
+# API + demo UI
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+PyPDF2
+
+# Persistence / plots / progress
+joblib
+matplotlib
+seaborn
+tqdm

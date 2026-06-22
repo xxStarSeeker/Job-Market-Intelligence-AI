@@ -1,0 +1,12 @@
+,AI Engineer,Business Analyst,Cloud Engineer,Cybersecurity Analyst,Data Analyst,Data Engineer,Data Scientist,DevOps Engineer,Product Manager,QA Engineer,Software Engineer
+AI Engineer,13,1,0,0,0,0,1,0,0,0,1
+Business Analyst,0,24,0,0,0,0,0,0,0,0,0
+Cloud Engineer,0,0,17,0,0,0,0,0,0,0,0
+Cybersecurity Analyst,0,0,0,24,0,0,0,0,0,0,0
+Data Analyst,0,0,0,0,22,2,0,0,0,0,0
+Data Engineer,0,0,1,0,2,24,0,0,0,0,0
+Data Scientist,0,0,0,0,2,0,14,0,0,0,0
+DevOps Engineer,0,0,0,0,0,0,0,13,0,0,0
+Product Manager,1,0,0,0,0,0,0,0,10,0,0
+QA Engineer,0,0,0,0,0,0,0,0,0,11,0
+Software Engineer,1,0,0,0,0,0,0,0,0,0,15

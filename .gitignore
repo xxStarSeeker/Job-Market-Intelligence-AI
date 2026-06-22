@@ -1,0 +1,59 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local secrets and environment
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE / local assistant folders
+.vscode/
+.idea/
+.claude/
+.codex/
+.agents/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and runtime output
+*.log
+reports/*.log
+uvicorn*.log
+streamlit*.log
+
+# Generated model/vector artifacts
+models/
+data/processed/job_embeddings_*.npy
+data/processed/job_faiss_*.index
+*.faiss
+*.index
+*.npy
+*.pkl
+*.joblib
+
+# Large/raw local datasets and temporary labeling artifacts
+saudi_job_market.csv
+disagreements.csv
+disagreements_llm_resolved.jsonl
+labels_all.jsonl
+
+# Accidentally duplicated nested project copy
+/Job Market Intelligence AI/

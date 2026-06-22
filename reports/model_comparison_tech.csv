@@ -1,0 +1,6 @@
+Model,Description,Accuracy,Macro F1,Train time (s)
+ensemble,"soft vote: tfidf_tuned=0.3, bge_chunked=0.2, distilbert_512=0.3, modernbert_1024=0.2",0.9396984924623115,0.9425906565248797,0
+distilbert_512,"distilbert-base-uncased @ 512 tok, lr=2e-05, seed 44 (best of 3 on val)",0.9246231155778895,0.9285949845201305,101
+modernbert_1024,"answerdotai/ModernBERT-base @ 1024 tok, lr=3e-05, seed 42 (best of 3 on val)",0.9195979899497487,0.9243041047616152,443
+bge_chunked,"bge-base chunked mean-pool, LogReg C=8.0",0.8793969849246231,0.877363661845684,22
+tfidf_tuned,"TF-IDF word1-2 sublinear, LogReg C=8.0",0.8693467336683417,0.8656585426989263,18

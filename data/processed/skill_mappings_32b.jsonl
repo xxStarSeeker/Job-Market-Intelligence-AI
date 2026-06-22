@@ -1,0 +1,454 @@
+{"term": "API testing", "implied_skills": ["Software Testing", "Test Automation", "API Design", "Quality Assurance", "Integration Testing"]}
+{"term": "AI", "implied_skills": ["Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "Model Deployment", "Data Analysis", "Algorithm Development", "Predictive Analytics"]}
+{"term": "A/B testing", "implied_skills": []}
+{"term": "AI/ML", "implied_skills": ["Machine Learning", "Deep Learning", "Data Analysis", "Predictive Modeling", "Algorithm Development", "Feature Engineering", "Model Evaluation", "Neural Networks", "Statistical Analysis", "Big Data Processing"]}
+{"term": "APM", "implied_skills": []}
+{"term": "ASP.NET", "implied_skills": []}
+{"term": "AWS", "implied_skills": ["Cloud Computing", "Cloud Architecture", "Cloud Security", "Infrastructure as Code", "Serverless Computing", "DevOps Practices", "Networking Fundamentals", "Database Management", "Storage Solutions", "Cost Optimization", "Monitoring and Logging"]}
+{"term": "AWS Certified Solutions Architect", "implied_skills": ["Cloud Architecture", "Infrastructure as Code", "Networking on AWS", "Security Practices", "Cost Optimization", "AWS Services Integration", "Auto Scaling", "Load Balancing"]}
+{"term": "AWS Glue", "implied_skills": ["Data Integration", "ETL Processes", "Cloud Data Catalog", "Serverless ETL", "AWS Services", "Data Transformation", "Glue Crawlers", "Data Lineage"]}
+{"term": "AWS S3", "implied_skills": ["Cloud Storage", "Data Management", "Object Storage", "Data Lifecycle Management", "Security Configuration"]}
+{"term": "AWS SageMaker", "implied_skills": ["Machine Learning", "Cloud Computing", "Data Modeling", "Model Training", "Deployment Automation", "Scalability Management", "Algorithm Implementation", "Predictive Analytics", "AutoML", "Monitoring Tools"]}
+{"term": "Access", "implied_skills": ["Database Management", "Database Design", "SQL Queries", "Data Analysis"]}
+{"term": "Active Directory", "implied_skills": ["Identity Management", "Access Control", "Directory Services", "User Administration", "Group Policy", "Security Policies", "LDAP", "ADFS", "DNS Integration"]}
+{"term": "Agile", "implied_skills": []}
+{"term": "Ajax", "implied_skills": ["Asynchronous Programming", "Web Development", "JavaScript", "DOM Manipulation", "XMLHttpRequest"]}
+{"term": "Alibaba Cloud", "implied_skills": []}
+{"term": "Alteryx", "implied_skills": ["Data Analytics", "Data Integration", "Automation Workflow", "Predictive Analytics", "Business Intelligence"]}
+{"term": "Amazon Redshift", "implied_skills": ["Data Warehousing", "SQL Querying", "ETL Processes", "Big Data Analytics", "Cloud Storage", "Database Management", "Performance Tuning", "Scalable Computing"]}
+{"term": "Analytics", "implied_skills": ["Data Analysis", "Statistical Modeling", "Business Intelligence", "Data Visualization", "Predictive Analytics"]}
+{"term": "Android", "implied_skills": ["Android Development", "Mobile Application Development", "Java Programming", "Kotlin Programming", "UI/UX Design", "App Testing", "Firebase Integration", "Material Design"]}
+{"term": "Angular", "implied_skills": ["Web Development", "Frontend Frameworks", "TypeScript Programming", "Component-Based Architecture", "Declarative UI"]}
+{"term": "Ansible", "implied_skills": []}
+{"term": "Apache Airflow", "implied_skills": []}
+{"term": "Apache Kafka", "implied_skills": ["Real-time Data Processing", "Stream Processing", "Data Pipelining", "Event Sourcing", "Distributed Systems"]}
+{"term": "Apache NiFi", "implied_skills": ["Data Integration", "Real-time Data Flow", "ETL Processes", "Data Provenance", "Flow-Based Programming"]}
+{"term": "Apache Spark", "implied_skills": []}
+{"term": "Appium", "implied_skills": ["Mobile Testing", "Automation Frameworks", "UI Testing", "Cross-Platform Testing", "Test Automation"]}
+{"term": "ArcSight", "implied_skills": ["Security Information and Event Management", "SIEM Technology", "Threat Detection", "Incident Response", "Log Management", "Network Security Monitoring", "Compliance Reporting", "Forensic Analysis"]}
+{"term": "Architecture", "implied_skills": ["System Design", "Scalability Planning", "Performance Optimization", "Security Architecture", "Technology Selection", "Integration Strategy", "Future Proofing"]}
+{"term": "Argo", "implied_skills": ["Workflow Orchestration", "Kubernetes Integration", "CI/CD Pipelines", "Cloud Native", "Automation"]}
+{"term": "ArgoCD", "implied_skills": ["Continuous Delivery", "GitOps", "Kubernetes Management", "Application Deployment", "Cluster Synchronization", "Automated Rollouts", "Resource Management"]}
+{"term": "Authentication", "implied_skills": []}
+{"term": "Axon", "implied_skills": ["Event Sourcing", "CQRS Architecture", "Domain Driven Design", "Microservices", "Aggregate Modeling"]}
+{"term": "Azure", "implied_skills": ["Cloud Computing", "Azure Services", "DevOps Practices", "Infrastructure as Code", "Data Analytics", "AI Integration", "Security Management", "Networking Fundamentals", "Serverless Architecture"]}
+{"term": "Azure AI", "implied_skills": ["Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "AI Model Management", "Azure Services", "Cloud Computing", "Data Science", "Automation", "API Development"]}
+{"term": "Azure Data Factory", "implied_skills": ["Data Integration", "ETL Processes", "Cloud Data Management", "Workflow Orchestration", "Data Pipelines", "Azure Services", "Data Transformation", "Big Data Handling", "Data Governance"]}
+{"term": "Azure DevOps", "implied_skills": ["DevOps Practices", "CI/CD Pipelines", "Version Control", "Agile Methodologies", "Project Management", "Automated Testing", "Infrastructure as Code", "Cloud Integration", "Build and Release Management"]}
+{"term": "Azure Security Engineer Associate", "implied_skills": []}
+{"term": "BI", "implied_skills": ["Business Intelligence", "Data Analysis", "Reporting Tools", "Dashboard Design", "Data Visualization", "ETL Processes", "Data Warehousing", "Performance Metrics", "SQL Queries"]}
+{"term": "BPMN", "implied_skills": []}
+{"term": "BRD", "implied_skills": []}
+{"term": "Bash", "implied_skills": []}
+{"term": "Big Data", "implied_skills": ["Big Data Processing", "Data Analytics", "Distributed Systems", "Hadoop Ecosystem", "NoSQL Databases", "Data Warehousing", "Real Time Processing", "Data Visualization"]}
+{"term": "BigQuery", "implied_skills": []}
+{"term": "Bugzilla", "implied_skills": []}
+{"term": "Business Intelligence", "implied_skills": []}
+{"term": "C#", "implied_skills": []}
+{"term": "C++", "implied_skills": ["Object-Oriented Programming", "System Programming", "Memory Management", "Performance Optimization", "Template Metaprogramming"]}
+{"term": "CA", "implied_skills": ["Certified Auditor", "Audit Management", "Risk Assessment", "Compliance Monitoring", "Internal Controls"]}
+{"term": "CAP", "implied_skills": ["Data Governance", "Metadata Management", "Master Data Management", "Data Quality", "Compliance Management"]}
+{"term": "CBAP", "implied_skills": []}
+{"term": "CCBA", "implied_skills": []}
+{"term": "CCIE", "implied_skills": []}
+{"term": "CCNA", "implied_skills": []}
+{"term": "CCNP", "implied_skills": []}
+{"term": "CCPA", "implied_skills": []}
+{"term": "CCSP", "implied_skills": []}
+{"term": "CDMP", "implied_skills": ["Data Governance", "Data Architecture", "Data Quality", "Metadata Management", "Data Stewardship"]}
+{"term": "CDN", "implied_skills": []}
+{"term": "CEH", "implied_skills": []}
+{"term": "CFA", "implied_skills": ["Financial Analysis", "Investment Management", "Quantitative Methods", "Ethical Standards", "Economics", "Corporate Finance", "Portfolio Management", "Derivatives", "Equity Valuation", "Fixed Income"]}
+{"term": "CI/CD", "implied_skills": []}
+{"term": "CISA", "implied_skills": ["Information Security", "Risk Management", "Security Governance", "Compliance Management", "Incident Response", "Business Continuity", "IT Auditing"]}
+{"term": "CISM", "implied_skills": []}
+{"term": "CISSP", "implied_skills": ["Network Security", "Cryptography", "Access Control", "Security Architecture", "Threat Management", "Risk Management", "Legal Compliance", "Physical Security", "Business Continuity Planning", "Security Operations"]}
+{"term": "CKA", "implied_skills": []}
+{"term": "CKAD", "implied_skills": ["Kubernetes Administration”,"]}
+{"term": "CRISC", "implied_skills": []}
+{"term": "CRM", "implied_skills": []}
+{"term": "CSS3", "implied_skills": ["Web Design", "Frontend Development", "Responsive Design", "CSS Animations", "Layout Techniques"]}
+{"term": "Cassandra", "implied_skills": ["NoSQL Databases", "Distributed Systems", "Data Modeling", "High Availability", "Scalability", "Big Data Storage", "Partitioning Strategy", "Consistency Models"]}
+{"term": "Chatbots", "implied_skills": ["Conversational Design", "NLP", "Chatbot Development", "User Interaction", "Dialog Management"]}
+{"term": "Chef", "implied_skills": []}
+{"term": "CircleCI", "implied_skills": []}
+{"term": "Cisco ASA", "implied_skills": []}
+{"term": "Claude", "implied_skills": ["AI Communication", "Text Generation", "Language Understanding", "Conversational AI", "Prompt Engineering"]}
+{"term": "Cloud Build", "implied_skills": ["Continuous Integration", "CI/CD Pipelines", "Cloud Native Development", "Automated Builds", "Infrastructure as Code"]}
+{"term": "Cloud SQL", "implied_skills": []}
+{"term": "Cloud Storage", "implied_skills": []}
+{"term": "CloudFormation", "implied_skills": ["Cloud Infrastructure Management", "CloudFormation", "Infrastructure as Code", "AWS Services Configuration", "Configuration Management", "Resource Orchestration", "Orchestration", "Template Authoring", "Authoring"]}
+{"term": "Clustering", "implied_skills": ["Data Analysis", "Unsupervised Learning", "Pattern Recognition", "Dimensionality Reduction", "Cluster Validation"]}
+{"term": "CompTIA Security+", "implied_skills": ["Network Security", "Threat Analysis", "Vulnerability Assessment", "Security Policies", "Incident Response", "Access Control", "Cryptography Basics"]}
+{"term": "Compute", "implied_skills": ["Parallel Computing", "High Performance Computing", "Distributed Systems", "Cluster Management", "Virtualization", "Container Orchestration"]}
+{"term": "Compute Engine", "implied_skills": ["Cloud Computing", "Virtual Machines", "Scalability Management", "Resource Allocation", "Networking Configuration", "Security Policies", "Performance Optimization", "Cost Management"]}
+{"term": "Confluence", "implied_skills": []}
+{"term": "Cyber Kill Chain", "implied_skills": []}
+{"term": "Cypress", "implied_skills": ["UI Testing", "End-to-End Testing", "JavaScript Testing", "Test Automation", "Web Development"]}
+{"term": "Cysa+", "implied_skills": []}
+{"term": "DAST", "implied_skills": ["Application Security", "Vulnerability Scanning", "Web Application Testing", "Security Auditing", "Penetration Testing"]}
+{"term": "DAX", "implied_skills": ["DAX Query Optimization", "Amazon DynamoDB", "Data Modeling", "NoSQL Database", "Performance Tuning", "Database Management", "Cloud Data Services", "AWS"]}
+{"term": "DHCP", "implied_skills": ["Network Configuration", "IP Assignment", "Dynamic IP Management", "Client-Server Communication", "TCP/IP Protocols"]}
+{"term": "DLP", "implied_skills": []}
+{"term": "DNS", "implied_skills": []}
+{"term": "Data Engineering", "implied_skills": ["Data Pipelines", "ETL Processes", "Big Data", "Data Warehousing", "Database Management", "Cloud Services", "Data Integration", "Data Quality", "Data Security", "Scalability"]}
+{"term": "Data Fusion", "implied_skills": []}
+{"term": "Data Loss Prevention", "implied_skills": []}
+{"term": "Data Manipulation", "implied_skills": ["Data Transformation", "Data Cleaning", "SQL Proficiency", "Pandas Library", "Data Wrangling"]}
+{"term": "Data Modeling", "implied_skills": ["Database Design", "Entity-Relationship", "Normalization", "Schema Design", "Data Integrity"]}
+{"term": "Data Quality", "implied_skills": ["Data Governance", "Data Validation", "Data Cleansing", "Data Profiling", "Metadata Management", "Compliance Monitoring", "Error Detection", "Data Standardization"]}
+{"term": "Data Quality Management", "implied_skills": ["Data Governance", "Data Validation", "Data Cleansing", "Metadata Management", "Data Profiling", "Compliance Monitoring", "Error Detection", "Data Enrichment"]}
+{"term": "Data Science", "implied_skills": ["Data Analysis", "Statistical Modeling", "Predictive Analytics", "Machine Learning", "Data Visualization", "Experimental Design", "Big Data Processing", "Data Wrangling", "Feature Engineering", "Algorithm Development"]}
+{"term": "Data Security", "implied_skills": []}
+{"term": "Data Warehouse", "implied_skills": []}
+{"term": "DataOps", "implied_skills": ["Data Governance", "DataGovernance", "Continuous Integration", "ContinuousIntegration", "Automation Tools", "AutomationTools", "Data Quality", "DataQuality", "Collaboration Practices", "CollaborationPractices", "DevOps Principles", "DevOpsPrinciples", "Data Pipeline Management", "DataPipelineManagement", "Monitoring and Alerting", "MonitoringandAlerting"]}
+{"term": "Datadog", "implied_skills": ["Application Monitoring", "Infrastructure Monitoring", "Log Management", "APM", "Real-Time Metrics", "Distributed Tracing", "Alerting", "AIOps"]}
+{"term": "Dataflow", "implied_skills": []}
+{"term": "Deep Learning", "implied_skills": ["Neural Networks", "Convolutional Networks", "Recurrent Networks", "Transfer Learning", "Gradient Descent", "Backpropagation", "TensorFlow", "PyTorch", "Hyperparameter Tuning", "Data Augmentation"]}
+{"term": "Design Thinking", "implied_skills": ["Innovation Process", "User Empathy", "Prototyping", "Iterative Design", "Creative Problem Solving"]}
+{"term": "DevOps", "implied_skills": []}
+{"term": "DevSecOps", "implied_skills": ["Continuous Integration", "Continuous Delivery", "Security Automation", "Infrastructure as Code", "Cloud Security", "Compliance Management", "Vulnerability Assessment", "Threat Modeling", "Incident Response", "Secure Coding"]}
+{"term": "Disaster Recovery", "implied_skills": []}
+{"term": "Distributed Computing", "implied_skills": []}
+{"term": "Django", "implied_skills": ["Web Development", "Python Programming", "Database Management", "ORM Usage", "Template Rendering", "User Authentication", "RESTful APIs", "Middleware Configuration", "Form Handling", "Security Practices"]}
+{"term": "Docker", "implied_skills": []}
+{"term": "EC2", "implied_skills": []}
+{"term": "EDC", "implied_skills": ["Data Governance", "Metadata Management", "Data Quality", "Master Data Management", "Data Lineage"]}
+{"term": "EDR", "implied_skills": []}
+{"term": "EKS", "implied_skills": []}
+{"term": "ELK", "implied_skills": ["Log Management", "Data Visualization", "Real-time Analytics", "Elasticsearch", "Kibana", "Logstash", "Monitoring", "Troubleshooting", "Security Information and Event Management"]}
+{"term": "ELT", "implied_skills": ["Data Transformation", "ETL Processes", "Data Loading", "Data Integration", "Cloud Data Warehousing", "Big Data Pipelines", "Data Quality Assurance"]}
+{"term": "ERP", "implied_skills": ["Business Process Management", "Supply Chain Management", "Financial Accounting", "Inventory Control", "Data Integration", "Workflow Automation", "Reporting and Analytics", "Customer Relationship Management", "Human Resource Management"]}
+{"term": "ETL", "implied_skills": []}
+{"term": "Elasticsearch", "implied_skills": ["Full-text Search", "Real-time Analytics", "Data Aggregation", "Scalable Architecture", "RESTful APIs", "JSON Documents", "Big Data Indexing", "Cluster Management", "Distributed Systems"]}
+{"term": "Endpoint Security", "implied_skills": []}
+{"term": "Excel", "implied_skills": ["Data Analysis", "Spreadsheet Management", "Financial Modeling", "Data Visualization", "Formula Development"]}
+{"term": "FAISS", "implied_skills": ["Vector Similarity Search", "High-Dimensional Indexing", "Efficient Retrieval", "Nearest Neighbor Search", "Large Scale Data"]}
+{"term": "FastAPI", "implied_skills": ["Web Development", "Async Programming", "REST APIs", "Python Frameworks", "Data Validation", "Dependency Injection", "Swagger Documentation"]}
+{"term": "Figma", "implied_skills": ["UI/UX Design", "Wireframing", "Prototyping", "Collaborative Design", "Visual Design"]}
+{"term": "FinOps", "implied_skills": ["Financial Management", "Cost Optimization", "Cloud Billing", "Budgeting", "Resource Allocation", "Performance Analysis", "Cost Transparency", "Data Analytics"]}
+{"term": "Firebase", "implied_skills": ["Realtime Database", "Cloud Firestore", "Authentication", "Hosting", "Cloud Functions", "Database Management", "Backend Development", "Mobile Development", "Web Development", "Push Notifications", "Analytics", "Security Rules"]}
+{"term": "Flink", "implied_skills": []}
+{"term": "GCFA", "implied_skills": ["Incident Response", "Forensic Analysis", "Digital Forensics", "Malware Analysis", "Network Forensics", "Evidence Collection", "Threat Hunting", "Security Operations"]}
+{"term": "GCFE", "implied_skills": ["Cybersecurity Fundamentals", "Threat Analysis", "Incident Response", "Network Security", "Security Operations"]}
+{"term": "GCIA", "implied_skills": []}
+{"term": "GCIH", "implied_skills": ["Incident Handling", "Digital Forensics", "Cybersecurity Analysis", "Threat Hunting", "Security Operations"]}
+{"term": "GCP", "implied_skills": []}
+{"term": "GDPR", "implied_skills": []}
+{"term": "GIS", "implied_skills": ["Geospatial Analysis", "Spatial Data Management", "Mapping", "Location Intelligence", "GIS Programming", "Remote Sensing", "Geographic Information Systems"]}
+{"term": "GKE", "implied_skills": []}
+{"term": "GRC", "implied_skills": []}
+{"term": "GREM", "implied_skills": ["Reverse Engineering", "Malware Analysis", "Ethical Hacking", "Vulnerability Assessment", "Cybersecurity Defense"]}
+{"term": "GSEC", "implied_skills": ["Security Fundamentals", "Threat Analysis", "Vulnerability Assessment", "Incident Response", "Security Policies"]}
+{"term": "Generative AI", "implied_skills": ["Generative Models", "Text Generation", "Image Synthesis", "AI Creativity", "Neural Networks"]}
+{"term": "Git", "implied_skills": ["Version Control", "Code Collaboration", "Branch Management", "Merge Strategies", "Repository Management"]}
+{"term": "GitHub", "implied_skills": []}
+{"term": "GitHub Actions", "implied_skills": ["Continuous Integration/Continuous Delivery (CI/CD)", "Automated Workflows", "Version Control Systems", "YAML Scripting", "DevOps Practices", "Containerization", "Test Automation"]}
+{"term": "GitLab", "implied_skills": ["CI/CD Pipelines", "Source Code Management", "DevOps Practices", "Project Management", "Containerization Support"]}
+{"term": "GitLab CI", "implied_skills": ["Continuous Integration/Delivery (CI/CD)", "DevOps Practices", "Pipeline Configuration", "Automated Testing", "Version Control", "Dockerization", "Infrastructure as Code", "Environment Management", "Artifact Management", "Security Scanning", "Performance Monitoring", "Deployment Strategies", "CI/CD Best Practices"]}
+{"term": "GitOps", "implied_skills": []}
+{"term": "Go", "implied_skills": ["Concurrency Management", "System Programming", "Web Services Development", "Networking Protocols", "Cloud Infrastructure"]}
+{"term": "Google Analytics", "implied_skills": ["Web Analytics", "Data Analysis", "User Behavior Tracking", "Conversion Rate Optimization", "Digital Marketing Strategy"]}
+{"term": "Google BigQuery", "implied_skills": ["Big Data Analytics", "SQL Querying", "Data Warehousing", "Cloud Services", "ETL Processes"]}
+{"term": "Grafana", "implied_skills": ["Data Visualization", "Monitoring Tools", "Dashboard Creation", "Time Series Analysis", "Alerting Systems"]}
+{"term": "HBase", "implied_skills": ["Big Data Storage", "NoSQL Databases", "Distributed Systems", "Data Modeling", "Hadoop Ecosystem", "Real-time Analytics", "Scalability Management", "Column-family Database"]}
+{"term": "HIPAA", "implied_skills": []}
+{"term": "HTML", "implied_skills": ["Web Development", "Frontend Engineering", "Semantic Markup", "Responsive Design", "Accessibility Standards"]}
+{"term": "HTML5", "implied_skills": ["Web Development", "Frontend Engineering", "Responsive Design", "Semantic Markup", "Cross-Browser Compatibility"]}
+{"term": "HTTP", "implied_skills": []}
+{"term": "Hadoop", "implied_skills": []}
+{"term": "Helm", "implied_skills": []}
+{"term": "Hibernate", "implied_skills": []}
+{"term": "Hive", "implied_skills": ["Data Warehousing", "SQL Querying", "Big Data Analysis", "Hadoop Ecosystem", "ETL Processes"]}
+{"term": "Hugging Face", "implied_skills": ["Transformers", "NLP", "Text Generation", "Sentiment Analysis", "Fine Tuning", "Model Serving", "API Integration"]}
+{"term": "IAM", "implied_skills": []}
+{"term": "IDQ", "implied_skills": []}
+{"term": "IDS/IPS", "implied_skills": []}
+{"term": "ISO 27001", "implied_skills": []}
+{"term": "ISO 9001", "implied_skills": ["Quality Management", "Process Improvement", "Documentation Control", "Auditing", "Compliance"]}
+{"term": "ISTQB", "implied_skills": []}
+{"term": "ITIL", "implied_skills": []}
+{"term": "Informatica PowerCenter", "implied_skills": ["Data Integration", "ETL Processes", "Data Mapping", "Workflow Management", "Data Quality", "Big Data Integration", "Cloud Integration", "Real-Time Data Processing"]}
+{"term": "Infrastructure as Code", "implied_skills": ["Automated Provisioning", "Configuration Management", "CloudFormation", "Terraform", "Version Control", "DevOps Practices", "Resource Orchestration", "Deployment Automation"]}
+{"term": "IoT", "implied_skills": []}
+{"term": "JMeter", "implied_skills": ["Performance Testing", "Load Testing", "Stress Testing", "API Testing", "Test Automation"]}
+{"term": "JSON", "implied_skills": []}
+{"term": "JUnit", "implied_skills": ["Software Testing", "Test Automation", "Java Programming", "Unit Testing", "Assertion Techniques"]}
+{"term": "Java", "implied_skills": ["Object-Oriented Programming", "Software Development", "Backend Development", "JVM Ecosystem", "Concurrency Management", "Spring Framework", "JavaFX", "Android Development", "RESTful Services"]}
+{"term": "JavaScript", "implied_skills": ["Frontend Development", "Web Development", "DOM Manipulation", "Event Handling", "Asynchronous Programming"]}
+{"term": "Jenkins", "implied_skills": []}
+{"term": "Jira", "implied_skills": []}
+{"term": "Juniper", "implied_skills": []}
+{"term": "KPIs", "implied_skills": []}
+{"term": "Kanban", "implied_skills": ["Agile Methodology", "Project Management", "Workflow Visualization", "Continuous Improvement", "Task Tracking"]}
+{"term": "Keras", "implied_skills": ["Neural Networks", "Deep Learning", "TensorFlow Integration", "Model Building", "Image Classification", "Sequence Modeling"]}
+{"term": "Kibana", "implied_skills": ["Data Visualization", "Log Analysis", "Elasticsearch Queries", "Dashboard Creation", "Real-Time Analytics"]}
+{"term": "Kubeflow", "implied_skills": []}
+{"term": "Kubernetes", "implied_skills": []}
+{"term": "LDAP", "implied_skills": []}
+{"term": "LLM", "implied_skills": ["Large Language Models", "Natural Language Processing", "Text Generation", "AI Training", "Model Fine-tuning"]}
+{"term": "Lambda", "implied_skills": ["Serverless Computing", "Event-Driven Architectures", "Function as a Service (FaaS)", "Cloud Integration", "Automated Scaling", "Code Execution", "Trigger Management"]}
+{"term": "LangChain", "implied_skills": ["Language Modeling", "Text Generation", "NLP Applications", "Chatbot Development", "AI Integration"]}
+{"term": "Lean", "implied_skills": []}
+{"term": "Linux", "implied_skills": []}
+{"term": "Linux/Unix", "implied_skills": ["System Administration", "Command Line Usage", "Shell Scripting", "File Permissions", "Process Management", "Network Configuration", "Security Hardening", "Troubleshooting", "Package Management", "Script Automation"]}
+{"term": "Load Balancing", "implied_skills": ["Network Architecture", "Traffic Management", "Scalability Design", "High Availability", "Performance Optimization"]}
+{"term": "LogRhythm", "implied_skills": ["Security Information and Event Management", "SIEM Technology", "Threat Detection", "Incident Response", "Log Management", "Compliance Monitoring", "Network Security", "User Behavior Analytics", "Forensic Analysis", "Data Visualization"]}
+{"term": "Looker", "implied_skills": ["Data Visualization", "Business Intelligence", "SQL Queries", "Dashboard Design", "Data Exploration"]}
+{"term": "MDM", "implied_skills": []}
+{"term": "MITRE ATT&CK", "implied_skills": []}
+{"term": "ML", "implied_skills": []}
+{"term": "MLOps", "implied_skills": ["Model Deployment", "Continuous Integration", "Continuous Delivery", "Data Pipelines", "Automated Testing", "Infrastructure as Code", "Machine Learning Lifecycle", "Monitoring Systems", "Collaborative Development", "Version Control"]}
+{"term": "MLflow", "implied_skills": ["Machine Learning Lifecycle", "Experiment Tracking", "Model Registry", "Model Serving", "Deployment Management"]}
+{"term": "MS Project", "implied_skills": []}
+{"term": "MVC", "implied_skills": []}
+{"term": "Machine Learning", "implied_skills": ["Algorithm Development", "Data Analysis", "Predictive Modeling", "Feature Engineering", "Model Evaluation"]}
+{"term": "Malware Analysis", "implied_skills": []}
+{"term": "Matlab", "implied_skills": ["Numerical Computing", "Algorithm Development", "Data Visualization", "Simulation", "Linear Algebra", "Signal Processing", "Image Processing", "Control Systems", "Machine Learning"]}
+{"term": "Maven", "implied_skills": ["Build Management", "Dependency Management", "Project Automation", "Java Development", "Plugin Usage"]}
+{"term": "Metabase", "implied_skills": ["Data Visualization", "Business Intelligence", "SQL Queries", "Dashboard Creation", "Report Generation"]}
+{"term": "Metadata Management", "implied_skills": ["Data Governance", "Metadata Standards", "Data Lineage", "Metadata Integration", "Schema Management", "Data Cataloging", "Metadata Storage", "Data Discovery"]}
+{"term": "Microsoft Defender for Cloud", "implied_skills": ["Cloud Security”,"]}
+{"term": "Microsoft Office", "implied_skills": ["Document Management", "Spreadsheet Analysis", "Presentation Skills", "Data Visualization", "Collaborative Editing"]}
+{"term": "Microsoft Sentinel", "implied_skills": ["Threat Intelligence", "Security Analytics", "Incident Response", "Cloud Security", "SIEM", "Automation and Orchestration", "Data Onboarding", "Compliance Management"]}
+{"term": "Microsoft Visio", "implied_skills": []}
+{"term": "MongoDB", "implied_skills": ["NoSQL Databases", "Document Stores", "Data Modeling", "Aggregation Framework", "Replication", "Sharding", "Database Administration", "JSON Data", "Scalability", "High Availability"]}
+{"term": "MySQL", "implied_skills": []}
+{"term": "NCA", "implied_skills": ["Network Configuration Automation”,", "#This response seems to be cut off and does not provide a valid JSON array of strings as requested. Given the context, 'NCA' might refer to Network Configuration Automation, so let's complete it properly based on that assumption."]}
+{"term": "NDMO", "implied_skills": []}
+{"term": "NET", "implied_skills": ["Web Development", "Windows Integration", "Object-Oriented Programming", "ASP.NET", "C# Programming", "Entity Framework", "MVC Architecture", "Dependency Injection", "Unit Testing", "RESTful Services"]}
+{"term": "NIST", "implied_skills": ["Cybersecurity Framework", "Risk Management", "Compliance Auditing", "Information Security", "Vulnerability Assessment"]}
+{"term": "NLP", "implied_skills": ["Natural Language Processing", "Text Analysis", "Sentiment Analysis", "Language Modeling", "Speech Recognition"]}
+{"term": "NLTK", "implied_skills": ["Natural Language Processing", "Text Analysis", "Tokenization", "Stemming", "Lemmatization", "Part-of-Speech Tagging", "Named Entity Recognition", "Sentiment Analysis", "Text Classification", "Corpus Management"]}
+{"term": "Nagios", "implied_skills": ["System Monitoring", "Network Monitoring", "Performance Metrics", "Alerting Systems", "Incident Management", "Configuration Management", "Plugin Development"]}
+{"term": "Nexus", "implied_skills": ["Artifact Management", "Repository Management", "Maven Repositories", "Provisioning", "Security Scanning"]}
+{"term": "Nginx", "implied_skills": []}
+{"term": "NiFi", "implied_skills": ["Data Integration", "ETL", "Real-time Data Flow", "Data Provenance", "Flow-Based Programming", "Big Data Ingestion", "Data Orchestration"]}
+{"term": "NoSQL", "implied_skills": []}
+{"term": "Node.js", "implied_skills": ["Backend Development", "JavaScript Programming", "Asynchronous Programming", "Web Development", "RESTful APIs", "Event-Driven Architecture", "Real-Time Applications"]}
+{"term": "NumPy", "implied_skills": ["Numerical Computing", "Array Manipulation", "Scientific Computing", "Data Analysis", "Linear Algebra"]}
+{"term": "OCI", "implied_skills": []}
+{"term": "OLAP", "implied_skills": ["Data Analysis", "Multidimensional Data", "Business Intelligence", "Data Warehousing", "Aggregation Functions"]}
+{"term": "ONNX", "implied_skills": []}
+{"term": "OSCP", "implied_skills": []}
+{"term": "OpenAI", "implied_skills": ["Artificial Intelligence", "Natural Language Processing", "API Integration", "Text Generation", "Chatbot Development"]}
+{"term": "OpenCV", "implied_skills": ["Image Processing", "Computer Vision", "Feature Detection", "Object Recognition", "Video Analysis"]}
+{"term": "OpenShift", "implied_skills": ["Container Orchestration", "Kubernetes Management", "Cloud Native Applications", "DevOps Practices", "CI/CD Pipelines", "Application Scaling", "Microservices Architecture", "Security Policies", "Resource Management"]}
+{"term": "OpenStack", "implied_skills": []}
+{"term": "PCI DSS", "implied_skills": []}
+{"term": "PDPL", "implied_skills": []}
+{"term": "PHP", "implied_skills": []}
+{"term": "PKI", "implied_skills": []}
+{"term": "PL/SQL", "implied_skills": []}
+{"term": "PMP", "implied_skills": []}
+{"term": "PSD2", "implied_skills": []}
+{"term": "PaaS", "implied_skills": ["Platform Development", "Application Management", "Cloud Services", "DevOps Practices", "Scalability Design"]}
+{"term": "Pandas", "implied_skills": ["Data Manipulation", "Data Analysis", "Python Programming", "DataFrame Operations", "Data Cleaning"]}
+{"term": "Penetration Testing", "implied_skills": []}
+{"term": "Performance Tuning", "implied_skills": ["Performance Optimization", "Performance Analysis", "Benchmarking Techniques", "System Profiling", "Resource Management", "Concurrency Control", "Latency Reduction", "Scalability Strategies"]}
+{"term": "Playwright", "implied_skills": ["Web Automation", "End-to-End Testing", "Browser Testing", "Test Frameworks", "JavaScript Testing"]}
+{"term": "PostgreSQL", "implied_skills": []}
+{"term": "Postman", "implied_skills": ["API Testing", "RESTful Services", "HTTP Protocols", "Test Automation", "Performance Testing", "Web Development"]}
+{"term": "Power Apps", "implied_skills": []}
+{"term": "Power Automate", "implied_skills": ["Workflow Automation", "Business Process Management", "Integration Services", "API Management", "Logic Apps", "Data Integration", "Custom Connectors", "Power Platform"]}
+{"term": "Power BI", "implied_skills": ["Data Visualization", "Business Intelligence", "Report Design", "Dashboard Creation", "Data Analysis", "Power Query", "Data Modeling"]}
+{"term": "Power Query", "implied_skills": []}
+{"term": "PowerPoint", "implied_skills": ["Presentation Design", "Visual Communication", "Data Visualization", "Storytelling Skills", "User Engagement"]}
+{"term": "PowerShell", "implied_skills": []}
+{"term": "Primavera P6", "implied_skills": []}
+{"term": "Prometheus", "implied_skills": []}
+{"term": "Pub/Sub", "implied_skills": ["Message Queuing", "Event-Driven Architecture", "Asynchronous Communication", "Real-Time Data Processing", "Scalable Systems"]}
+{"term": "Puppet", "implied_skills": []}
+{"term": "PyTorch", "implied_skills": ["Deep Learning", "Neural Networks", "Tensor Operations", "GPU Computing", "Dynamic Computation Graphs", "Model Training", "Model Evaluation", "Transfer Learning", "Data Loading", "Automatic Differentiation"]}
+{"term": "Python", "implied_skills": ["Programming Fundamentals", "Data Structures", "Object-Oriented Programming", "Scripting", "Web Development", "Data Analysis", "Automation", "Machine Learning", "Scientific Computing", "GUI Development"]}
+{"term": "QA", "implied_skills": ["Software Testing", "Test Planning", "Defect Tracking", "Quality Assurance", "Testing Methodologies"]}
+{"term": "QRadar", "implied_skills": ["Security Analytics", "SIEM Technology", "Network Security", "Threat Detection", "Incident Response", "Log Management", "Compliance Monitoring", "Data Correlation", "Forensic Analysis"]}
+{"term": "QlikView", "implied_skills": ["Data Visualization", "Business Intelligence", "Data Analysis", "Dashboard Design", "ETL", "Report Automation"]}
+{"term": "RAG", "implied_skills": []}
+{"term": "RDBMS", "implied_skills": []}
+{"term": "RDS", "implied_skills": []}
+{"term": "REST", "implied_skills": ["Web Services", "HTTP Protocol", "API Design", "Stateless Operations", "JSON Data", "Resource Identification", "Client-Server Architecture"]}
+{"term": "REST API", "implied_skills": ["Web Services", "HTTP Protocol", "API Design", "JSON Handling", "RESTful Architecture", "Client-Server Communication", "Authentication Mechanisms", "Error Handling", "Versioning"]}
+{"term": "RPA", "implied_skills": ["Automation Engineering", "Process Automation", "Workflow Design", "Robotic Process Automation", "Scripting for Automation"]}
+{"term": "RabbitMQ", "implied_skills": ["Message Queuing", "Distributed Systems", "Asynchronous Communication", "Event-Driven Architecture", "Reliability Engineering"]}
+{"term": "Ray", "implied_skills": ["Distributed Computing", "Parallelism", "Task Scheduling", "Actor Model", "Fault Tolerance", "Big Data Processing", "Machine Learning Scaling", "Cluster Management"]}
+{"term": "React", "implied_skills": ["Frontend Development", "JavaScript Frameworks", "Component-Based UI", "State Management", "Virtual DOM", "JSX Syntax"]}
+{"term": "React Native", "implied_skills": ["Mobile Development", "JavaScript Frameworks", "Cross-Platform Development", "UI/UX Design", "State Management", "Component-Based Architecture", "Native Modules Integration"]}
+{"term": "Red Hat OpenShift", "implied_skills": ["Kubernetes Administration", "Container Orchestration", "Cloud Native Applications", "DevOps Practices", "CI/CD Pipelines", "Microservices Architecture", "Application Security", "Scalability Management", "Resource Optimization", "Hybrid Cloud"]}
+{"term": "Redis", "implied_skills": ["In-Memory Database", "Data Caching", "Key-Value Storage", "High Performance", "Database Management"]}
+{"term": "Redshift", "implied_skills": ["Data Warehousing", "SQL Querying", "ETL Processes", "Cloud Storage", "Big Data Analytics", "Database Management", "Performance Tuning", "Scalable Computing"]}
+{"term": "Rest Assured", "implied_skills": []}
+{"term": "Reverse Engineering", "implied_skills": ["Binary Analysis", "Disassembly", "Debugging", "Code Optimization", "Security Auditing", "Software Re-engineering", "Protocol Analysis", "Forensic Analysis"]}
+{"term": "Ruby", "implied_skills": []}
+{"term": "S3", "implied_skills": ["S3 Storage Management”,", "Data Lifecycle Management”,", ","]}
+{"term": "SAN", "implied_skills": []}
+{"term": "SAST", "implied_skills": []}
+{"term": "SCADA", "implied_skills": []}
+{"term": "SDLC", "implied_skills": ["Software Development", "Project Management", "Requirements Engineering", "Agile Methodologies", "Quality Assurance", "Version Control", "Testing Strategies", "Deployment Processes", "DevOps Practices"]}
+{"term": "SIEM", "implied_skills": []}
+{"term": "SOAP", "implied_skills": []}
+{"term": "SOAR", "implied_skills": []}
+{"term": "SPSS", "implied_skills": ["Statistical Analysis", "Data Visualization", "Regression Analysis", "Hypothesis Testing", "Predictive Modeling"]}
+{"term": "SQL", "implied_skills": []}
+{"term": "SQL Server", "implied_skills": []}
+{"term": "SSIS", "implied_skills": ["Data Integration", "ETL Processes", "SQL Server", "Data Transformation", "Package Development"]}
+{"term": "SSL", "implied_skills": ["Encryption", "Security Protocols", "Certificate Management", "Data Integrity", "Authentication"]}
+{"term": "SSO", "implied_skills": []}
+{"term": "SVN", "implied_skills": ["Version Control", "Source Code Management", "Repository Management", "Branching and Merging", "Code History"]}
+{"term": "SaaS", "implied_skills": []}
+{"term": "SageMaker", "implied_skills": ["Machine Learning", "Model Training", "Cloud Computing", "Automated ML", "Deployment Management", "Data Preprocessing", "Hyperparameter Tuning", "Model Monitoring"]}
+{"term": "Scala", "implied_skills": ["Functional Programming", "Object-Oriented Programming", "Concurrency", "Immutable Data Structures", "JVM Ecosystem"]}
+{"term": "Scrum", "implied_skills": []}
+{"term": "Selenium", "implied_skills": ["Web Testing", "Automation Testing", "Test Automation", "Browser Automation", "UI Testing"]}
+{"term": "SharePoint", "implied_skills": ["Collaborative Workspaces", "Document Management", "Content Management", "Workflow Automation", "User Permissions", "Web Content Publishing", "Integration Services", "Business Intelligence", "Site Administration"]}
+{"term": "Shell", "implied_skills": []}
+{"term": "Shell scripting", "implied_skills": ["Shell Scripting", "Scripting", "Automation Skills", "Automation", "Unix Commands", "Commands", "System Administration", "Admin", "Text Processing", "Processing"]}
+{"term": "Snowflake Schema", "implied_skills": []}
+{"term": "SoapUI", "implied_skills": ["API Testing", "Test Automation", "Load Testing", "Functional Testing", "Security Testing"]}
+{"term": "Software Development", "implied_skills": ["Programming Fundamentals", "Version Control", "Agile Methodologies", "Code Quality", "Debugging Techniques", "Unit Testing", "Integration Testing", "Continuous Integration", "Software Design Patterns", "Problem Solving", "Algorithm Analysis", "Data Structures"]}
+{"term": "Spotfire", "implied_skills": ["Data Visualization", "Business Intelligence", "Analytics", "Dashboard Creation", "Data Exploration"]}
+{"term": "Spring", "implied_skills": ["Java Development", "Web Services", "Dependency Injection", "Aspect Oriented Programming", "Transaction Management", "MVC Architecture"]}
+{"term": "Spring Boot", "implied_skills": []}
+{"term": "Star Schema", "implied_skills": ["Data Modeling", "Dimensional Modeling", "Business Intelligence", "OLAP", "ETL"]}
+{"term": "Storage", "implied_skills": []}
+{"term": "Switches", "implied_skills": []}
+{"term": "System Administration", "implied_skills": ["System Management", "Network Configuration", "Security Hardening", "Troubleshooting", "Backup and Recovery", "User Management", "Performance Tuning", "Scripting for Automation", "Operating System Knowledge"]}
+{"term": "T-SQL", "implied_skills": []}
+{"term": "TCP/IP", "implied_skills": []}
+{"term": "TDD", "implied_skills": []}
+{"term": "TFS", "implied_skills": ["Version Control", "Source Code Management", "Build Automation", "Continuous Integration", "Project Tracking", "Work Item Management", "Agile Methodologies", "Team Collaboration"]}
+{"term": "TLS", "implied_skills": ["Encryption", "Security Protocols", "Data Integrity", "Authentication", "Secure Communication"]}
+{"term": "TOGAF", "implied_skills": []}
+{"term": "Tableau", "implied_skills": ["Data Visualization", "Business Intelligence", "Dashboard Design", "Data Analysis", "Report Creation"]}
+{"term": "Talend", "implied_skills": []}
+{"term": "TensorFlow", "implied_skills": ["Machine Learning", "Neural Networks", "Tensor Operations", "Data Flow Graphs", "Model Training", "Model Evaluation", "GPU Computing", "Keras Integration", "TF Serving", "TF Lite"]}
+{"term": "Terraform", "implied_skills": []}
+{"term": "TestNG", "implied_skills": ["Software Testing", "Test Automation", "JUnit Framework", "XML Configuration", "Parallel Execution"]}
+{"term": "TestRail", "implied_skills": []}
+{"term": "Threat Hunting", "implied_skills": []}
+{"term": "Transformers", "implied_skills": ["Natural Language Processing", "Machine Learning", "Deep Learning", "Sequence Modeling", "Attention Mechanisms"]}
+{"term": "Trello", "implied_skills": []}
+{"term": "TypeScript", "implied_skills": ["TypeScript Programming", "JavaScript Frameworks", "Frontend Development", "Type Systems", "Web Development"]}
+{"term": "UAT", "implied_skills": []}
+{"term": "UML", "implied_skills": []}
+{"term": "Ubuntu", "implied_skills": ["Linux Administration", "System Configuration", "Package Management", "Shell Scripting", "Network Configuration"]}
+{"term": "Unix", "implied_skills": []}
+{"term": "VMware", "implied_skills": ["VMware vSphere Administration", "Virtualization Technology", "Cloud Infrastructure Management", "Network Virtualization", "Storage Virtualization"]}
+{"term": "VMware Cloud Director", "implied_skills": []}
+{"term": "VPC", "implied_skills": ["VPC Configuration", "Virtual Network Management", "Network Security", "Subnetting", "IP Addressing", "Routing Configuration"]}
+{"term": "VPN", "implied_skills": ["VPN Configuration", "Network Security", "Encryption Techniques", "Remote Access", "Tunneling Protocols"]}
+{"term": "Vertex AI", "implied_skills": ["Machine Learning", "AutoML", "Model Training", "Deployment Management", "TensorFlow Integration", "Data Labeling", "Feature Store", "Hyperparameter Tuning", "Explainable AI", "Batch Prediction"]}
+{"term": "Visio", "implied_skills": []}
+{"term": "Visualization", "implied_skills": ["Data Visualization", "Visual Analytics", "Information Design", "UI/UX Design", "Interactive Visualizations", "Dashboards", "Charting Libraries", "Big Data Visualization"]}
+{"term": "Waterfall", "implied_skills": []}
+{"term": "Whisper", "implied_skills": ["Speech Recognition", "Audio Processing", "Transcription Accuracy", "Real-time Processing", "Noise Reduction"]}
+{"term": "Windows", "implied_skills": []}
+{"term": "Word", "implied_skills": ["Document Formatting", "Text Editing", "Collaborative Writing", "Track Changes", "Mail Merge"]}
+{"term": "XDR", "implied_skills": []}
+{"term": "XML", "implied_skills": []}
+{"term": "Zero Trust", "implied_skills": ["Zero Trust Network Access (ZTNA)", "Identity and Access Management (IAM)", "Endpoint Security", "Network Security", "Continuous Monitoring", "Least Privilege Access", "Security Analytics", "Threat Intelligence", "Microsegmentation", "Authentication and Authorization"]}
+{"term": "access management systems", "implied_skills": []}
+{"term": "agile methodologies", "implied_skills": []}
+{"term": "anomaly detection", "implied_skills": []}
+{"term": "antivirus", "implied_skills": ["Malware Detection", "Virus Scanning", "Endpoint Security", "Threat Analysis", "Cybersecurity"]}
+{"term": "application security", "implied_skills": ["Security Auditing", "Vulnerability Assessment", "Penetration Testing", "Secure Coding", "Threat Modeling"]}
+{"term": "automated testing", "implied_skills": ["Test Automation", "Scripting Languages", "Continuous Integration", "Defect Detection", "Performance Testing"]}
+{"term": "automation", "implied_skills": []}
+{"term": "automation scripts", "implied_skills": []}
+{"term": "business analysis", "implied_skills": []}
+{"term": "business process modeling", "implied_skills": []}
+{"term": "classification", "implied_skills": ["Data Analysis", "Statistical Modeling", "Predictive Analytics", "Feature Engineering", "Algorithm Selection"]}
+{"term": "cloud architecture", "implied_skills": ["Cloud Computing", "Infrastructure as Code", "Scalability Design", "High Availability", "Cost Optimization", "Security Management", "Networking", "Storage Solutions", "Automation", "DevOps Practices"]}
+{"term": "cloud computing", "implied_skills": []}
+{"term": "cloud infrastructure", "implied_skills": []}
+{"term": "cloud migration", "implied_skills": []}
+{"term": "cloud platforms", "implied_skills": []}
+{"term": "cloud security", "implied_skills": []}
+{"term": "code reviews", "implied_skills": []}
+{"term": "compliance", "implied_skills": []}
+{"term": "computer vision", "implied_skills": ["Image Recognition", "Object Detection", "Feature Extraction", "Pattern Recognition", "Deep Learning", "Convolutional Neural Networks", "Semantic Segmentation", "Computer Graphics", "Data Annotation", "Image Processing"]}
+{"term": "container orchestration", "implied_skills": ["Container Management", "Kubernetes", "Docker", "Service Discovery", "Load Balancing", "Automated Scaling", "CI/CD Integration", "Resource Scheduling"]}
+{"term": "containerization", "implied_skills": []}
+{"term": "cybersecurity", "implied_skills": ["Cyber Threat Analysis", "Network Security", "Security Architecture", "Incident Response", "Vulnerability Assessment", "Cryptography", "Security Compliance", "Penetration Testing", "Identity Management", "Data Privacy"]}
+{"term": "cybersecurity policies", "implied_skills": []}
+{"term": "dashboards", "implied_skills": ["Data Visualization", "Business Intelligence", "UI/UX Design", "Interactive Analytics", "Performance Metrics"]}
+{"term": "data analysis", "implied_skills": []}
+{"term": "data architecture", "implied_skills": []}
+{"term": "data cleansing", "implied_skills": []}
+{"term": "data governance", "implied_skills": ["Data Governance", "Data Management", "Policy Development", "Compliance Monitoring", "Metadata Management", "Data Quality Assurance", "Data Stewardship", "Risk Assessment", "Regulatory Compliance", "Data Lineage"]}
+{"term": "data integration", "implied_skills": ["ETL Processes", "Data Mapping", "Data Transformation", "Data Quality", "Metadata Management", "Data Lineage", "Integration Architecture"]}
+{"term": "data integrity", "implied_skills": []}
+{"term": "data lakes", "implied_skills": []}
+{"term": "data management", "implied_skills": ["Data Governance", "Data Architecture", "Data Quality", "Metadata Management", "Data Integration", "Data Security", "Big Data Processing", "Database Management", "ETL"]}
+{"term": "data mining", "implied_skills": ["Data Analysis", "Data Exploration", "Pattern Recognition", "Predictive Analytics", "Statistical Modeling", "Knowledge Discovery"]}
+{"term": "data pipelines", "implied_skills": []}
+{"term": "data processing", "implied_skills": []}
+{"term": "data profiling", "implied_skills": []}
+{"term": "data validation", "implied_skills": []}
+{"term": "data visualization", "implied_skills": ["Visual Analytics", "Data Presentation", "Information Design", "Dashboard Creation", "Interactive Visuals"]}
+{"term": "database management", "implied_skills": ["Data Storage", "Query Optimization", "Transaction Management", "Database Security", "Schema Design", "Backup Recovery", "Performance Tuning", "Concurrency Control", "Data Integrity"]}
+{"term": "dimensional modeling", "implied_skills": []}
+{"term": "distributed systems", "implied_skills": []}
+{"term": "documentation", "implied_skills": ["Technical Writing", "Content Management", "Information Architecture", "User Guidance", "Version Control"]}
+{"term": "embeddings", "implied_skills": ["Vector Space Modeling", "Semantic Similarity", "Dimensionality Reduction", "NLP Techniques", "Feature Extraction"]}
+{"term": "encryption", "implied_skills": []}
+{"term": "feature engineering", "implied_skills": ["Feature Selection", "Data Transformation", "Dimensionality Reduction", "Domain Knowledge Application", "Feature Scaling"]}
+{"term": "firewalls", "implied_skills": []}
+{"term": "forecasting", "implied_skills": ["Time Series Analysis", "Statistical Modeling", "Predictive Analytics", "Data Visualization", "Forecast Validation"]}
+{"term": "forensic analysis", "implied_skills": []}
+{"term": "functional testing", "implied_skills": ["Software Testing", "Test Case Development", "Manual Testing", "Functional Specification Analysis", "Bug Reporting"]}
+{"term": "high availability", "implied_skills": []}
+{"term": "iOS", "implied_skills": []}
+{"term": "identity and access management", "implied_skills": ["Identity Management", "Access Control", "Authentication", "Authorization", "Security Policies", "User Provisioning", "Role-Based Access Control", "Multi-Factor Authentication"]}
+{"term": "incident response", "implied_skills": ["Incident Management", "Forensic Analysis", "Cybersecurity Threats", "Emergency Response Planning", "Digital Forensics"]}
+{"term": "integration testing", "implied_skills": ["Integration Testing", "Software Testing", "Test Automation", "System Integration", "API Design", "Quality Assurance", "End-to-End Testing", "Debugging Skills"]}
+{"term": "jQuery", "implied_skills": ["DOM Manipulation", "Event Handling", "AJAX Calls", "Cross-Browser Compatibility", "JavaScript Libraries"]}
+{"term": "logging", "implied_skills": []}
+{"term": "manual testing", "implied_skills": ["Software Testing", "Test Cases", "Bug Reporting", "Quality Assurance", "Manual Verification"]}
+{"term": "matplotlib", "implied_skills": []}
+{"term": "microservices", "implied_skills": []}
+{"term": "model evaluation", "implied_skills": ["Performance Metrics", "Validation Techniques", "Bias Detection", "Accuracy Assessment", "Cross-Validation", "Confusion Matrix", "ROC Analysis", "AUC Calculation", "Error Analysis"]}
+{"term": "monitoring", "implied_skills": ["System Monitoring", "Performance Metrics", "Real-Time Analytics", "Alerting Systems", "Troubleshooting", "Log Analysis", "Infrastructure Monitoring", "Application Performance Management"]}
+{"term": "network", "implied_skills": []}
+{"term": "network monitoring solutions", "implied_skills": ["Network Performance", "Traffic Analysis", "Security Monitoring", "Incident Response", "Real-Time Analytics", "Troubleshooting", "Bandwidth Management", "Compliance Monitoring", "Alerting Systems", "Performance Optimization"]}
+{"term": "network security", "implied_skills": ["Cybersecurity Fundamentals", "Threat Detection", "Vulnerability Assessment", "Firewall Configuration", "Intrusion Prevention", "Encryption Techniques", "Security Policies", "Penetration Testing", "Secure Networking"]}
+{"term": "networking", "implied_skills": []}
+{"term": "neural networks", "implied_skills": ["Neural Network Design", "Deep Learning", "Backpropagation", "Convolutional Networks", "Recurrent Networks", "Neural Architecture Search", "Gradient Descent", "Activation Functions", "Regularization Techniques", "Hyperparameter Tuning"]}
+{"term": "observability", "implied_skills": []}
+{"term": "performance testing", "implied_skills": []}
+{"term": "predictive analytics", "implied_skills": ["Data Analysis", "Statistical Modeling", "Predictive Modeling", "Time Series Forecasting", "Machine Learning"]}
+{"term": "predictive modeling", "implied_skills": ["Statistical Analysis", "Data Modeling", "Predictive Analytics", "Machine Learning", "Feature Engineering", "Model Validation", "Time Series Analysis"]}
+{"term": "project management", "implied_skills": []}
+{"term": "project management methodologies", "implied_skills": []}
+{"term": "prompt engineering", "implied_skills": []}
+{"term": "protocols", "implied_skills": ["Network Protocols", "Protocol Analysis", "Security Protocols", "Data Transmission", "Error Detection"]}
+{"term": "quality assurance", "implied_skills": ["Software Testing", "Test Planning", "Defect Tracking", "Regression Testing", "User Acceptance Testing", "Test Automation", "Quality Control", "Compliance Verification"]}
+{"term": "regression", "implied_skills": ["Statistical Analysis", "Data Modeling", "Predictive Analytics", "Linear Regression", "Model Validation"]}
+{"term": "regression testing", "implied_skills": ["Software Testing", "Test Automation", "Regression Analysis", "Quality Assurance", "Automation Frameworks"]}
+{"term": "reinforcement learning", "implied_skills": ["Reinforcement Learning", "Decision Making", "Policy Optimization", "Reward Systems", "Markov Decision Processes"]}
+{"term": "reporting", "implied_skills": ["Data Visualization", "Report Generation", "Business Intelligence", "Dashboard Design", "Data Analysis"]}
+{"term": "risk assessment", "implied_skills": ["Risk Management", "Risk Analysis", "Risk Mitigation", "Compliance Assessment", "Regulatory Knowledge", "Business Continuity Planning"]}
+{"term": "risk management", "implied_skills": []}
+{"term": "routers", "implied_skills": []}
+{"term": "routing", "implied_skills": ["Routing Protocols", "Network Topology", "Traffic Engineering", "Quality of Service", "Path Optimization"]}
+{"term": "scikit-learn", "implied_skills": ["Machine Learning", "Data Analysis", "Feature Engineering", "Model Evaluation", "Classification", "Regression", "Clustering"]}
+{"term": "scripting", "implied_skills": ["Automation", "Script Development", "Text Processing", "Task Automation", "Shell Scripting"]}
+{"term": "security", "implied_skills": ["Cybersecurity Fundamentals", "Threat Detection", "Vulnerability Assessment", "Network Security", "Security Policies", "Incident Response", "Cryptography", "Identity Management", "Compliance Management", "Secure Coding"]}
+{"term": "security operations center", "implied_skills": []}
+{"term": "serverless", "implied_skills": []}
+{"term": "spaCy", "implied_skills": ["NLP", "Text Analysis", "Language Processing", "Entity Recognition", "Dependency Parsing"]}
+{"term": "stakeholder management", "implied_skills": []}
+{"term": "statistical analysis", "implied_skills": ["Statistical Modeling", "Data Analysis", "Hypothesis Testing", "Regression Analysis", "Probability Theory"]}
+{"term": "statistical modeling", "implied_skills": ["Statistical Analysis", "Data Interpretation", "Predictive Modeling", "Regression Analysis", "Hypothesis Testing", "Experimental Design", "Bayesian Statistics", "Time Series Analysis"]}
+{"term": "statistics", "implied_skills": ["Statistical Analysis", "Data Interpretation", "Probability Theory", "Hypothesis Testing", "Regression Analysis", "Experimental Design", "Bayesian Statistics", "Time Series Analysis"]}
+{"term": "testing", "implied_skills": ["Software Testing", "Test Planning", "Test Execution", "Defect Tracking", "Quality Assurance", "Automation Testing", "Performance Testing", "Security Testing", "Regression Testing", "User Acceptance Testing"]}
+{"term": "threat intelligence", "implied_skills": []}
+{"term": "unit testing", "implied_skills": ["Software Testing", "Test Driven Development", "Code Coverage", "Debugging", "Automation"]}
+{"term": "vSAN", "implied_skills": ["Storage Virtualization", "Distributed Storage", "VMware Infrastructure", "Data Protection", "Fault Tolerance", "Performance Optimization", "Cluster Management"]}
+{"term": "vector databases", "implied_skills": ["Vector Databases", "Database Management", "High-Dimensional Search", "Data Retrieval", "Scalability Optimization", "Performance Tuning", "Similarity Search", "Query Processing", "Indexing Techniques", "Information Retrieval"]}
+{"term": "version control", "implied_skills": []}
+{"term": "virtualization", "implied_skills": []}
+{"term": "visualization tools", "implied_skills": ["Data Visualization", "UI/UX Design", "Interactive Dashboards", "Business Intelligence", "Visual Analytics"]}
+{"term": "vulnerability assessment", "implied_skills": []}
+{"term": "vulnerability management", "implied_skills": []}
+{"term": "web services", "implied_skills": ["Service Oriented Architecture", "RESTful APIs", "SOAP Protocols", "XML Data", "JSON Handling", "API Security", "HTTP Protocol", "Web Service Integration", "WSDL Usage", "Stateless Operations"]}
