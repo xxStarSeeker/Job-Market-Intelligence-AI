@@ -53,6 +53,8 @@ data/processed/job_faiss_*.index
 saudi_job_market.csv
 disagreements.csv
 disagreements_llm_resolved.jsonl
+labels_all.csv
+labels_all1.csv
 labels_all.jsonl
 
 # Accidentally duplicated nested project copy

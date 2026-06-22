@@ -13,7 +13,7 @@ from titles):
 
 Pipeline
 --------
-1. Merge final_labels_resolved.csv with job_data_saudi_clean.csv on job_id.
+1. Merge data/labels/final_labels_resolved.csv with job_data_saudi_clean.csv on job_id.
 2. Clean text (URLs, emails, phones, non-printables, whitespace).
 3. Drop exact-duplicate descriptions (prevents train/test leakage).
 4. Keep categories with >= 50 examples.
@@ -71,7 +71,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 # --------------------------------------------------------------------------
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-LABELS_CSV = PROJECT_ROOT / "final_labels_resolved.csv"
+LABELS_CSV = PROJECT_ROOT / "data" / "labels" / "final_labels_resolved.csv"
 JOBS_CSV = PROJECT_ROOT / "job_data_saudi_clean.csv"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 MODELS_DIR = PROJECT_ROOT / "models"
